@@ -1,0 +1,11 @@
+.header { 
+    /* Set the height or other necessary styles for your header */ 
+    height: 700px; 
+    background-image: url('img/galaxy.webp'); 
+    background-size: cover; /* Adjust the image size to cover the header */ 
+    background-position: center; /* Center the image */ 
+    /* Additional properties for background if needed */ 
+    text-align: center;
+    color: white;
+    font-size: 24px;
+  } 
